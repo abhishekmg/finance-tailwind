@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@responsive {
+  .bg-section-one-blue {
+    background-image: linear-gradient(0deg, #E0EAF3, #E0EAF3);    
+  }
+}
+
+.section-class {
+  background-image: url(./img/leapfinance-girl-1.png);
+}
+
+.leading-11 {
+  line-height: 4.5rem;
+}
+
+.section-one-img {
+  margin-top: 72px;
+  width: 455px;
+  height: 673px;
+}
+
+.section-one-img-mobile {
+  margin-top: -54px !important;
+  /* margin-left: -13px !important; */
+}
+
+.section-one-mobile-card {
+  bottom: -120px;
+}
