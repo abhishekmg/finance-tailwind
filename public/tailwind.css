@@ -55,3 +55,22 @@
 .section-three-single-illustration {
   min-width: 219px;
 }
+
+.section-five-desktop {
+  height: 303px;
+  
+}
+
+@media (min-width: 640px) {
+  .section-five-desktop {
+    height: 593px;
+    
+  }
+ }
+
+ tbody>tr>:nth-child(2){
+  background: #443EFF;
+  box-shadow: 0px 8px 20px rgba(130, 136, 148, 0.16), 0px 0px 2px rgba(130, 136, 148, 0.14);
+  border-radius: 7px;
+  color: white;
+ }
