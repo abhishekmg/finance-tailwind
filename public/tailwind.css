@@ -74,3 +74,43 @@
   border-radius: 7px;
   color: white;
  }
+
+ .section-seven { 
+   height: 558px;
+ }
+
+ .section-seven-fig {
+   top: -55px
+ }
+
+ .section-seven-img {
+   width: 875px;
+   height: 613px;
+ }
+
+ .section-seven-heading{
+   margin-top: 355px;
+   width: 413px;
+   font-size: 105px;
+   line-height: 85px;
+   letter-spacing: -3.2px;
+  margin-left: -136px;
+ }
+ .section-seven-heading-mobile {
+  font-size: 70px;
+  line-height: 55px;  
+  letter-spacing: -2.2px;
+  position: absolute;
+  bottom: 12px;
+ }
+
+ .section-seven-quote-div {
+   width: 465px;
+ }
+
+ .section-nine-img{
+   min-width: 310px;
+   min-height: 250px;
+
+
+ }

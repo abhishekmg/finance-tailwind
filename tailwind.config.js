@@ -8,7 +8,8 @@ module.exports = {
         'leap-gray': '#F5F7F9',
         'leap-gray-1' : '#888897',
         'leap-gray-2' : '#565660',
-        'leap-black' : '#06051F'
+        'leap-black' : '#06051F',
+        'leap-pink' : '#FFE2E8'
       }
     },
   },
